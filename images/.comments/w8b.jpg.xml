@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>Waiter greets you with glasses of wine</caption>
+  <note>Portrait of smiling waiter giving you a glass of welcome drink on white background</note>
+  <place/>
+  <categories>
+    <category value="aged"/>
+    <category value=" alcohol"/>
+    <category value=" background"/>
+    <category value=" beverage"/>
+    <category value=" butler"/>
+    <category value=" cafe"/>
+    <category value=" caucasian"/>
+    <category value=" celebration"/>
+    <category value=" champagne"/>
+    <category value=" confident"/>
+    <category value=" drink"/>
+    <category value=" elegant"/>
+    <category value=" formal"/>
+    <category value=" glass"/>
+    <category value=" hand"/>
+    <category value=" handsome"/>
+    <category value=" happy"/>
+    <category value=" holding"/>
+    <category value=" hospitality"/>
+    <category value=" hotel"/>
+    <category value=" isolated"/>
+    <category value=" job"/>
+    <category value=" liquor"/>
+    <category value=" male"/>
+    <category value=" man"/>
+    <category value=" mature"/>
+    <category value=" modern"/>
+    <category value=" occupation"/>
+    <category value=" offering"/>
+    <category value=" party"/>
+    <category value=" people"/>
+    <category value=" person"/>
+    <category value=" portrait"/>
+    <category value=" professional"/>
+    <category value=" reception"/>
+    <category value=" restaurant"/>
+    <category value=" senior"/>
+    <category value=" servant"/>
+    <category value=" service"/>
+    <category value=" serving"/>
+    <category value=" smiling"/>
+    <category value=" standing"/>
+    <category value=" suit"/>
+    <category value=" tray"/>
+    <category value=" tuxedo"/>
+    <category value=" uniform"/>
+    <category value=" waiter"/>
+    <category value=" white"/>
+    <category value=" wine"/>
+    <category value=" worker"/>
+  </categories>
+</comment>
